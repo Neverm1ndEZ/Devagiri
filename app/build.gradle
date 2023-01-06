@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.devgiri'
+    namespace 'com.ultracures.devgiri'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.devgiri"
+        applicationId "com.ultracures.devgiri"
         minSdk 21
         targetSdk 32
         versionCode 1

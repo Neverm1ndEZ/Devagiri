@@ -1,4 +1,4 @@
-package com.example.devgiri;
+package com.ultracures.devgiri;
 
 import org.junit.Test;
 
